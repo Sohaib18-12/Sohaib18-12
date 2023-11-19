@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sohaib Khelfi</h1>
 <h3 align="center">Machine Learning engineer</h3>
 
-- 🔭 I’m currently working as **a software engineer**
+- 🔭 I’m working as **software engineer**
 
-- 🌱 I’m currently learning **about machine learning and AI application**
+- 🌱 I’m learning **about machine learning and AI applications**
 
 - 📫 How to reach me **sohaib.khelfi99@gmail.com**
 
